@@ -2,8 +2,8 @@
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
 ▀▄ ▄▀    BY Th3_BOOS                   ▀▄ ▄▀ 
-▀▄ ▄▀     BY Th3_BOOS (@Th3_BOOS)    ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY Th3_BOOS          ▀▄ ▄▀   
+▀▄ ▄▀     BY Th3_BOOS (@hassn_bks)    ▀▄ ▄▀ 
+▀▄ ▄▀ JUST WRITED BY Th3_hassn          ▀▄ ▄▀   
 ▀▄ ▄▀     ADD SUDO  : اضافه مطور           ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 --]]
@@ -43,6 +43,15 @@ return {
   }, 
   run = run,
 }
--- arabic : @Th3_BOOS
+-- arabic : المطور# حسن الهتر
+
+@HASSN_BKS
+
+والمطور#جهنم
+
+@X_x_56_GaHaNaM_56_x_X
+
+تابع القنات@X_x_H_56_B_x_X
+
 
 end
