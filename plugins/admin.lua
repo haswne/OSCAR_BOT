@@ -300,6 +300,13 @@ return {
   run = run,
   pre_process = pre_process
 }
---By @Th3_BOOS :)
---https://github.com/SEEDTEAM/TeleSeed/blob/test/plugins/admin.lua
----Modified by @Th3_BOOS for supergroups
+المطور# حسن الهتر
+
+@HASSN_BKS
+
+والمطور#جهنم
+
+@X_x_56_GaHaNaM_56_x_X
+
+تابع القنات@X_x_H_56_B_x_X
+
