@@ -1,7 +1,7 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY Th3_BOOS                   ▀▄ ▄▀ 
+▀▄ ▄▀    BY HASSN_BKS                  ▀▄ ▄▀ 
 ▀▄ ▄▀     BY Th3_BOOS (@hassn_bks)    ▀▄ ▄▀ 
 ▀▄ ▄▀ JUST WRITED BY Th3_hassn          ▀▄ ▄▀   
 ▀▄ ▄▀     ADD SUDO  : اضافه مطور           ▀▄ ▄▀ 
