@@ -45,4 +45,8 @@ chmod +x launch.sh
 
 @HASSN_BKS
 
+والمطور#جهنم
+
+@X_x_56_GaHaNaM_56_x_X
+
 تابع القنات@X_x_H_56_B_x_X
