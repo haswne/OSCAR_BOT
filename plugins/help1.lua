@@ -1,9 +1,9 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY Th3_BOOS                   ▀▄ ▄▀ 
-▀▄ ▄▀     BY Th3_BOOS (@Th3_BOOS)    ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY Th3_BOOS          ▀▄ ▄▀   
+▀▄ ▄▀    BY HASSN_BKS                   ▀▄ ▄▀ 
+▀▄ ▄▀     BY Th3_BOOS (@HASSN_BKS)    ▀▄ ▄▀ 
+▀▄ ▄▀ JUST WRITED BY HASSN_BKS          ▀▄ ▄▀   
 ▀▄ ▄▀          help1  : مساعدة             ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 --]]
@@ -85,9 +85,9 @@ return [[🔰💠 - اوامر الرفع في الكروب💠♨️
 ️🔰-انستا : + يوزر : يستعمل لجلب معلومات حساب الانستا مع الصور
  :للتواصل مع المطور
 __________________
-♠️ - Dev - @Th3_BOOS
-♠️ - channel - @Dev_Th3_BOOS
-♠️ - group bot- @Th3_BOOS_BOT
+♠️ - Dev - @DVR_KAKAHE
+♠️ - channel - @@X_x_56_GaHaNaM_56_x_X
+♠️ - group bot-  @X_x_H_56_B_x_X
 
 ]]
 end
