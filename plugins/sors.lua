@@ -11,7 +11,7 @@
 do
 
 function run(msg, matches)
-  return '❣https://github.com/haswne/oscar.git \n❣   #المطور :@HASSN_BKS \n'
+  return '❣https://github.com/haswne/OSCAR_BOT.git \n❣   #المطور :@HASSN_BKS \n'
 end
 
 return {
