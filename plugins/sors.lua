@@ -1,9 +1,9 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY Th3_BOOS                   ▀▄ ▄▀ 
-▀▄ ▄▀     BY Th3_BOOS (@Th3_BOOS)    ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY Th3_BOOS          ▀▄ ▄▀   
+▀▄ ▄▀    BY HASSN_BKS                   ▀▄ ▄▀ 
+▀▄ ▄▀     BY Th3_BOOS (@HASSN_BKS)    ▀▄ ▄▀ 
+▀▄ ▄▀ JUST WRITED BY HASSN_BKS          ▀▄ ▄▀   
 ▀▄ ▄▀          Dev  : المطور               ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 --]]
@@ -11,7 +11,7 @@
 do
 
 function run(msg, matches)
-  return '❣https://github.com/ahm3d97/Th3_BOOS.git \n❣   #المطور :@Th3_BOOS \n'
+  return '❣https://github.com/haswne/oscar.git \n❣   #المطور :@HASSN_BKS \n'
 end
 
 return {
