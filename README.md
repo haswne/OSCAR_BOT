@@ -1,4 +1,4 @@
-# OSCR_BOT
+# OSCAR_BOT
 
 طريقه تنصيب البوت
 
