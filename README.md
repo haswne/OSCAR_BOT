@@ -18,11 +18,11 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ************************************************************
 وراها حط
 **************
-git clone https://github.com/haswne/oscar.git
+git clone https://github.com/haswne/OSCAR_BOT.git
 *****************************************************
 وراها حط
 **************************
-cd oscar
+cd OSCAR_BOT
 **************************
 وراها خلي
 **************************
