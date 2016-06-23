@@ -18,7 +18,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ************************************************************
 وراها حط
 **************
-git https://github.com/haswne/oscar.git
+git clone https://github.com/haswne/oscar.git
 *****************************************************
 وراها حط
 **************************
@@ -45,7 +45,7 @@ chmod +x launch.sh
 
 @HASSN_BKS
 
-والمطور#جهنم
+المطور # جهنم
 
 @X_x_56_GaHaNaM_56_x_X
 
